@@ -48,11 +48,11 @@ Informatics Engineering Student • Web Development • AI Enthusiast
 🌟 **Fruit Classification AI**  
 Machine learning model to classify **apple, banana, and orange images**
 
-🌟 **KasirKu – Digital POS System**  
-Simple cashier system for **UMKM digital transactions**
+🌟 **SIMONDO – Lecturer Monitoring System**  
+Web-based system to monitor **lecturer activities and academic information management**
 
-🌟 **Smart Door System**  
-Automatic door system using **ESP32-CAM and Face Recognition**
+🌟 **Travel Plan Web Application**  
+Web application to organize **travel destinations, schedules, and trip planning**
 
 ---
 
