@@ -68,16 +68,6 @@ Automatic door system using **ESP32-CAM and Face Recognition**
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deliamaharani&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deliamaharani&theme=tokyo-night"/>
