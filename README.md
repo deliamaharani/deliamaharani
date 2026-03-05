@@ -60,9 +60,9 @@ Automatic door system using **ESP32-CAM and Face Recognition**
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deliamaharani&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deliamaharani&theme=tokyonight"/>
 
 </p>
 
@@ -72,9 +72,15 @@ Automatic door system using **ESP32-CAM and Face Recognition**
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deliamaharani&theme=tokyonight&row=1&column=6"/>
 
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deliamaharani&theme=tokyo-night"/>
 
 ---
 
